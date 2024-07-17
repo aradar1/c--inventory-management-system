@@ -1,0 +1,119 @@
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojResolveAssemblyReference.cache
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.Cache
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+c:\users\angelo\documents\visual studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+F:\FIDEL_IT112P_LabExer6\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+F:\FIDEL_IT112P_LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+F:\FIDEL_IT112P_LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojResolveAssemblyReference.cache
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\IT112P-A54-34\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.Cache
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojResolveAssemblyReference.cache
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.Cache
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojResolveAssemblyReference.cache
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\R312-Lab\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.Cache
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojAssemblyReference.cache
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.cache
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.CoreCompileInputs.cache
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.ItemInventory.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Product_List.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateItem.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.receipt.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.ProductForm.resources
+C:\Users\OLO\Desktop\FIDEL_IT112P_LabExer6_NOT_FINAL_v.1\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.PurchaseHistory.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojResolveAssemblyReference.cache
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.ItemInventory.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Product_List.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.ProductForm.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.PurchaseHistory.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Receipt.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateItem.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\IT112P-A54-34\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.ItemInventory.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Login.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.DeleteUser.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Home.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.NewUser.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Product_List.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.ProductForm.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.PurchaseHistory.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.Receipt.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateItem.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P_LabExer6.UpdateUser.resources
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.pdb
+C:\Users\Zeezy\Desktop\MP_v.1.0\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\Zeezy\Desktop\MP_v.1.0\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\Zeezy\Desktop\MP_v.1.0\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb

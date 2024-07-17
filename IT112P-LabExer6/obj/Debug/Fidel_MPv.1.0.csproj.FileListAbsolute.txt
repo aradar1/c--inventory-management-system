@@ -1,0 +1,3 @@
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\bin\Debug\IT112P-LabExer6.exe.config
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.exe
+C:\Users\Angelo\Desktop\MP_v.1.0\IT112P-LabExer6\obj\Debug\IT112P-LabExer6.pdb

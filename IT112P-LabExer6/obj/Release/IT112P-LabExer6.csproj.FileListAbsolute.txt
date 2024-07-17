@@ -1,0 +1,12 @@
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\bin\Release\IT112P-LabExer6.exe.config
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\bin\Release\IT112P-LabExer6.exe
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\bin\Release\IT112P-LabExer6.pdb
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P_LabExer6.Login.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P_LabExer6.DeleteUser.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P_LabExer6.Home.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P_LabExer6.NewUser.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P_LabExer6.Properties.Resources.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P_LabExer6.UpdateUser.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P-LabExer6.csproj.GenerateResource.Cache
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P-LabExer6.exe
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\IT112P-LabExer6\IT112P-LabExer6\obj\Release\IT112P-LabExer6.pdb
